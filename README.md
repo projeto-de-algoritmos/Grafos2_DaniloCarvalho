@@ -3,7 +3,7 @@
 # LeetCodeExercicios
 
 **Número da Lista**: 1<br>
-**Conteúdo da Disciplina**: Grafos1<br>
+**Conteúdo da Disciplina**: Grafos2<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -11,14 +11,14 @@
 | 21/1039312| Danilo Carvalho Antunes |
 
 ## Sobre 
-Este repositório contém a resolução de alguns exercícios do [LeetCode](https://leetcode.com/) relacionados a Union-Find e Arvoré geradora minima.
+Este repositório contém a resolução de um exercício do [LeetCode](https://leetcode.com/) relacionados a Union-Find, Arvoré geradora minima e Kruskal.
 
 ## Screenshots
 
-## Exercicio 1 - 778. Swim in Rising Water
+## Exercicio 1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 
 Dificuldade: Hard <br>
-Link: [Swin in rising water](https://leetcode.com/problems/swim-in-rising-water/)
+Link: [Find Critical and Pseudo Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
 
 ## Instalação 
 **Linguagem**: Python<br>
