@@ -19,6 +19,10 @@ Este repositório contém a resolução de um exercício do [LeetCode](https://l
 
 ![ScreenShot](Screenshots/Screenshot2.jpeg)_ScreenShot2_
 
+## [Link da Apresentação](https://youtu.be/7dRRnhDQoDo)
+## **NÃO É NÓ Crítico e SIM ARESTA**
+  No video eu me confundo e falo nó critíco e nó pseudo critíco mas são arestas critícas e arestas pseudos critícas, **correção**
+
 
 ## Exercicio 1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 
