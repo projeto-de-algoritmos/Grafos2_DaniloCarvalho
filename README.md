@@ -15,9 +15,9 @@ Este repositório contém a resolução de um exercício do [LeetCode](https://l
 
 ## Screenshots
 
-![ScreenShot](../Grafos2_LeetProblems/Screenshots/Screenshot1.jpeg)_ScreenShot1_
+![ScreenShot](Screenshots/Screenshot1.jpeg)_ScreenShot1_
 
-![ScreenShot](../Grafos2_LeetProblems/Screenshots/Screenshot1.jpeg)_ScreenShot2_
+![ScreenShot](Screenshots/Screenshot2.jpeg)_ScreenShot2_
 
 
 ## Exercicio 1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
